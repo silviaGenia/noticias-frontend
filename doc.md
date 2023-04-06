@@ -1,0 +1,1 @@
+para la nueva version se configura en: `next.config.js`
